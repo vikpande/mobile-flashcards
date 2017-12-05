@@ -1,7 +1,7 @@
 # Flashcards
 A React Native app made as a part of the React Nanodegree Project from Udacity
 
-To start the app: run the follwoing on your terminal:
+To start the app: run the following on your terminal:
 
 1. yarn install
 2. yarn start
